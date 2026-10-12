@@ -1,0 +1,92 @@
+{
+ "shard": "jah-databases-comics-shard-1",
+ "database": "comics",
+ "records": 2000,
+ "id_range": [
+  "JAH-COMIC-000001",
+  "JAH-COMIC-002000"
+ ],
+ "pages_per_issue": 22,
+ "chunks": [
+  {
+   "file": "comics-c00001.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00002.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00003.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00004.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00005.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00006.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00007.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00008.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00009.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00010.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00011.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00012.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00013.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00014.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00015.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00016.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00017.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00018.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00019.json.gz",
+   "count": 100
+  },
+  {
+   "file": "comics-c00020.json.gz",
+   "count": 100
+  }
+ ]
+}
